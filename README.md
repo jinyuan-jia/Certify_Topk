@@ -16,6 +16,7 @@ We also run the code and "result.txt" in the result file we obtained.
 
 If you use this code, please cite the following paper: 
 
+```
 @inproceedings{
 jia2020certified,
 title={Certified Robustness for Top-k Predictions against Adversarial Perturbations via Randomized Smoothing},
@@ -23,3 +24,4 @@ author={Jinyuan Jia and Xiaoyu Cao and Binghui Wang and Neil Zhenqiang Gong},
 booktitle={International Conference on Learning Representations},
 year={2020}
 }
+```
