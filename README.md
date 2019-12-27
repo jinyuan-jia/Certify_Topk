@@ -6,7 +6,7 @@ Required python tool: numpy, scipy, statsmodels.
 
 topk.py is used to compute the certified radius for top-k predictions. 
 
-compute_radius.py is used to read the frequency file (each line contains the frequency of each label for a sample, "cifar0.25.txt" is an example file) and save the results. 
+compute_radius.py is used to read the frequency file (each line contains the frequency of each label for a sample and last column is the label that we aim to certify, "cifar0.25.txt" is an example file) and save the results. 
 
 You can directly run "python3 run.py" 
 
