@@ -10,7 +10,7 @@ compute_radius.py is used to read the frequency file (each line contains the fre
 
 You can directly run "python3 run.py" 
 
-We also run the code and "result.txt" in the result file we obtained. 
+We also ran the code and "result.txt" is the result file we obtained. 
 
 # Citation 
 
