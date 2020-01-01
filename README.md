@@ -16,6 +16,8 @@ where result.txt is file that saves the result, which contains two columns. The 
 
 We also ran the code and "result.txt" is the result file we obtained. 
 
+Note that when we conducted the experiments, we used the pre-trained models from previous work which can be found in this address: https://github.com/locuslab/smoothing
+
 # Citation 
 
 If you use this code, please cite the following paper: 
