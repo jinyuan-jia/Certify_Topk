@@ -12,7 +12,7 @@ Given a base classifier _f_, Gaussian noise &epsilon; ~ N(0,&sigma;), and a samp
 
 You can directly run:
 ``` python3 compute_radius.py --src cifar0.25.txt --dst result.txt --alpha 0.001 --sigma 0.25 --k 1 ``` 
-where result.txt is file that saves the result, which contains two columns. The first column contains the sample id and the second column contains the certified radius. alpha, sigma, and k specifies the value of &alpha;, &sigma;, and &k in the paper (please refer to paper for details). When estimating the upper and lower bound of probabili
+where result.txt is file that saves the result, which contains two columns. The first column contains the sample id and the second column contains the certified radius. alpha, sigma, and k specifies the value of &alpha;, &sigma;, and k in the paper (please refer to paper for details). When estimating the upper and lower bound of probabili
 
 We also ran the code and "result.txt" is the result file we obtained. 
 
